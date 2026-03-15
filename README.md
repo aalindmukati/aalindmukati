@@ -1,8 +1,4 @@
 # 💫 About Me:
-<p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUyOTE5cHQ5ajNieTYweHplODBqanR6dXphd3g4YzhvZHF2cnFxeW1jMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/br99SojJZ5rlfSYset/giphy.gif" width="500"/>
-</p>
-
 I'm currently working on developing my skills<br>I'm looking to collaborate on web development <br>I'm looking for help with llm and ml<br>I am a huge motorsport nerd 
 
 
@@ -19,4 +15,7 @@ I'm currently working on developing my skills<br>I'm looking to collaborate on w
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUyOTE5cHQ5ajNieTYweHplODBqanR6dXphd3g4YzhvZHF2cnFxeW1jMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/br99SojJZ5rlfSYset/giphy.gif" width="500"/>
+</p>
+
