@@ -1,7 +1,5 @@
 # 💫 About Me: 
 I'm currently working on developing my skills<br>I'm looking to collaborate on web development <br>I'm looking for help with LLM and ML<br>I am a huge motorsport nerd. :)
-<img width="996" height="1512" alt="aalindmukati-gitfut" src="https://github.com/user-attachments/assets/56f1c95c-a515-4478-ab26-0f58a6f9e1c1" />
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aalind_mukati) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aalindmukati@gmail.com) 
