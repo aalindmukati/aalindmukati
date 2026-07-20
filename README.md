@@ -11,7 +11,7 @@ I'm currently working on developing my skills<br>I'm looking to collaborate on w
 ![](https://nirzak-streak-stats.vercel.app/?user=aalindmukati&theme=neon&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aalindmukati&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️ Quote of the Day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <p align="center">
