@@ -6,10 +6,14 @@ I'm currently working on developing my skills<br>I'm looking to collaborate on w
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![PlayStation Network](https://img.shields.io/badge/PSN-%230070D1.svg?style=for-the-badge&logo=Playstation&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=aalindmukati&theme=neon&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=aalindmukati&theme=neon&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aalindmukati&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### 🟩 Contribution Graph:
+![](https://vercel.app)
 
 ### ✍️ Quote of the Day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
@@ -17,4 +21,3 @@ I'm currently working on developing my skills<br>I'm looking to collaborate on w
 <p align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUyOTE5cHQ5ajNieTYweHplODBqanR6dXphd3g4YzhvZHF2cnFxeW1jMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/br99SojJZ5rlfSYset/giphy.gif" width="500"/>
 </p>
-
