@@ -1,23 +1,52 @@
-# 💫 About Me: 
-I'm currently working on developing my skills<br>I'm looking to collaborate on web development <br>I'm looking for help with LLM and ML<br>I am a huge motorsport nerd. :)
+# Hi, I'm Aalind 👋
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aalind_mukati) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aalindmukati@gmail.com) 
+Engineering student at **SRM IST, Kattankulathur** (2nd year), building toward **ML engineering and quantitative roles**, with a growing interest in **AI security**.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![PlayStation Network](https://img.shields.io/badge/PSN-%230070D1.svg?style=for-the-badge&logo=Playstation&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white)
+I learn by shipping: most of what's below started as a problem I wanted solved, not a tutorial.
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=aalindmukati&theme=neon&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=aalindmukati&theme=neon&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aalindmukati&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 🔭 What I'm working on
 
-### 🟩 Contribution Graph:
-![](https://herokuapp.com)
+- **ML + Python:** structured self-study built around deployable projects, not notebooks that never leave my laptop
+- **Full-stack projects:** campus tooling and hackathon builds (see below)
+- **Security:** blockchain / crypto forensics (Smart India Hackathon 2026)
+
+## 🚀 Featured projects
+
+| Project | What it is | Stack |
+|---|---|---|
+| **ChainTrace** | Crypto forensic investigation platform built for Smart India Hackathon 2026 | TODO: add stack · [Repo](TODO) |
+| **Varsity** | Unified SRM campus app combining attendance, grades and food-court ordering into one place | TODO: add stack · [Repo](TODO) |
+| [**Ps-Games-Dataset-Analyzer**](https://github.com/aalindmukati/Ps-Games-Dataset-Analyzer) | Exploratory analysis of a PlayStation games dataset | Python |
+| [**Weather-Data-Project**](https://github.com/aalindmukati/Weather-Data-Project) | Weather data analysis project | Python |
+
+<!-- Replace TODOs, or delete a row if the repo isn't public. Add a one-line result to each (e.g. "R² 0.87 vs 0.71 baseline") once you have it. -->
+
+## 💻 Tech
+
+![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+
+## 📊 GitHub stats
+
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=aalindmukati&theme=neon&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aalindmukati&theme=neon&hide_border=true&layout=compact" />
+</p>
+
+## 🤝 Open to
+
+ML / data / quant-flavoured **internships**, and collaborating on ML or web projects.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://in.linkedin.com/in/aalind-mukati-14086a3a2)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aalindmukati@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/aalind_mukati)
+
+Outside code: motorsport nerd 🏎️ and PlayStation / Valorant on weekends.
 
 ### ✍️ Quote of the Day
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUyOTE5cHQ5ajNieTYweHplODBqanR6dXphd3g4YzhvZHF2cnFxeW1jMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/br99SojJZ5rlfSYset/giphy.gif" width="500"/>
-</p>
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
