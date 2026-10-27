@@ -30,10 +30,8 @@ I learn by shipping: most of what's below started as a problem I wanted solved, 
 
 ## 📊 GitHub stats
 
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=aalindmukati&theme=neon&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aalindmukati&theme=neon&hide_border=true&layout=compact" />
-</p>
+[![Aalind's GitHub stats](https://vercel.app)](https://github.com)
+[![Top Langs](https://vercel.app)](https://github.com)
 
 ## 🤝 Open to
 
