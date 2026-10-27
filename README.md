@@ -14,8 +14,6 @@ I learn by shipping: most of what's below started as a problem I wanted solved, 
 
 | Project | What it is | Stack |
 |---|---|---|
-| **ChainTrace** | Crypto forensic investigation platform built for Smart India Hackathon 2026 | TODO: add stack · [Repo](TODO) |
-| **Varsity** | Unified SRM campus app combining attendance, grades and food-court ordering into one place | TODO: add stack · [Repo](TODO) |
 | [**Ps-Games-Dataset-Analyzer**](https://github.com/aalindmukati/Ps-Games-Dataset-Analyzer) | Exploratory analysis of a PlayStation games dataset | Python |
 | [**Weather-Data-Project**](https://github.com/aalindmukati/Weather-Data-Project) | Weather data analysis project | Python |
 
