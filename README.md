@@ -16,7 +16,7 @@ I learn by shipping: most of what's below started as a problem I wanted solved, 
 |---|---|---|
 | [**Ps-Games-Dataset-Analyzer**](https://github.com/aalindmukati/Ps-Games-Dataset-Analyzer) | Exploratory analysis of a PlayStation games dataset | Python |
 | [**Weather-Data-Project**](https://github.com/aalindmukati/Weather-Data-Project) | Weather data analysis project | Python |
-| [**Java-Bites**](https://github.com/aalindmukati/Java-Bites/settings) | isually-driven web directory for the SRMIST Food Court | Typescript |
+| [**Java-Bites**](https://github.com/aalindmukati/Java-Bites/settings) | web directory for the SRMIST Food Court | Typescript , SupaBase |
 
 <!-- Replace TODOs, or delete a row if the repo isn't public. Add a one-line result to each (e.g. "R² 0.87 vs 0.71 baseline") once you have it. -->
 
