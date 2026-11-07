@@ -5,7 +5,6 @@
 -->
 <div align="center">
 
-<h3><code>aalindmukati@github ~ $ whoami</code></h3>
 
 <table>
 <tr>
@@ -28,7 +27,6 @@
 
 | Project | What it is |
 |---|---|
-| **ChainTrace** | Crypto forensic investigation platform, built for Smart India Hackathon 2026 |
 | **Varsity** | Unified SRM campus app: attendance, grades and food court in one place |
 | [**Ps-Games-Dataset-Analyzer**](https://github.com/aalindmukati/Ps-Games-Dataset-Analyzer) | Exploratory analysis of a PlayStation games dataset (Python) |
 | [**Weather-Data-Project**](https://github.com/aalindmukati/Weather-Data-Project) | Weather data analysis (Python) |
@@ -58,7 +56,6 @@
 
 <br>
 
-<h3><code>aalindmukati@github ~ $ ./quote.sh</code></h3>
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote of the day" />
 
