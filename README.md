@@ -1,46 +1,67 @@
-# Hi, I'm Aalind 👋
+<!--
+  Profile README: repo must be named EXACTLY your username (aalindmukati/aalindmukati) and be public.
+  Assets in this repo: info-card.svg, wordmark.svg, contrib-heatmap.svg (refreshed daily by the workflow).
+  Widths 370 / 490 keep the info card and the 3D wordmark at the same visual height.
+-->
+<div align="center">
 
-Engineering student at **SRM IST, Kattankulathur** (2nd year), building toward **ML engineering and quantitative roles**, with a growing interest in **AI security**.
+<h3><code>aalindmukati@github ~ $ whoami</code></h3>
 
-I learn by shipping: most of what's below started as a problem I wanted solved, not a tutorial.
+<table>
+<tr>
+<td valign="top"><img src="./info-card.svg" width="370" alt="Aalind Mukati — terminal info card" /></td>
+<td valign="top"><img src="./wordmark.svg" width="490" alt="AALIND — 3D ASCII wordmark" /></td>
+</tr>
+</table>
 
-## 🔭 What I'm working on
+<br>
+<br>
 
-- **ML + Python:** structured self-study built around deployable projects, not notebooks that never leave my laptop
-- **Full-stack projects:** campus tooling and hackathon builds (see below)
-- **Security:** blockchain / crypto forensics (Smart India Hackathon 2026)
+<h3><code>aalindmukati@github ~ $ ./contributions.sh</code></h3>
 
-## 🚀 Featured projects
+<img src="./contrib-heatmap.svg" width="860" alt="GitHub contribution graph — auto-refreshed daily" />
 
-| Project | What it is | Stack |
-|---|---|---|
-| [**Ps-Games-Dataset-Analyzer**](https://github.com/aalindmukati/Ps-Games-Dataset-Analyzer) | Exploratory analysis of a PlayStation games dataset | Python |
-| [**Weather-Data-Project**](https://github.com/aalindmukati/Weather-Data-Project) | Weather data analysis project | Python |
-| [**Java-Bites**](https://github.com/aalindmukati/Java-Bites/settings) | web directory for the SRMIST Food Court | Typescript , SupaBase |
+<br>
+<br>
 
-<!-- Replace TODOs, or delete a row if the repo isn't public. Add a one-line result to each (e.g. "R² 0.87 vs 0.71 baseline") once you have it. -->
+<h3><code>aalindmukati@github ~ $ ./projects.sh</code></h3>
 
-## 💻 Tech
+| Project | What it is |
+|---|---|
+| **ChainTrace** | Crypto forensic investigation platform, built for Smart India Hackathon 2026 |
+| **Varsity** | Unified SRM campus app: attendance, grades and food court in one place |
+| [**Ps-Games-Dataset-Analyzer**](https://github.com/aalindmukati/Ps-Games-Dataset-Analyzer) | Exploratory analysis of a PlayStation games dataset (Python) |
+| [**Weather-Data-Project**](https://github.com/aalindmukati/Weather-Data-Project) | Weather data analysis (Python) |
 
-![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+<!-- Link ChainTrace and Varsity to their repos once public: [**ChainTrace**](https://github.com/aalindmukati/<repo>) -->
 
+<br>
 
+<h3><code>aalindmukati@github ~ $ ./stack.sh</code></h3>
 
-## 🤝 Open to
+![C](https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=white)
 
-ML / data / quant-flavoured **internships**, and collaborating on ML or web projects.
+<br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://in.linkedin.com/in/aalind-mukati-14086a3a2)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aalindmukati@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/aalind_mukati)
+<h3><code>aalindmukati@github ~ $ ./links.sh</code></h3>
 
-Outside code: motorsport nerd 🏎️ and PlayStation / Valorant on weekends.
+<p><b>Engineering Student · ML &amp; Quant · AI Security</b></p>
 
-### ✍️ Quote of the Day
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-aalind--mukati-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/aalind-mukati-14086a3a2)
+[![Email](https://img.shields.io/badge/Email-aalindmukati@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aalindmukati@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-aalind__mukati-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/aalind_mukati)
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<br>
+
+<h3><code>aalindmukati@github ~ $ ./quote.sh</code></h3>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote of the day" />
+
+<br>
+
+</div>
