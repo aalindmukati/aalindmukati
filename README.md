@@ -16,14 +16,12 @@
 <br>
 <br>
 
-<h3><code>aalindmukati@github ~ $ ./contributions.sh</code></h3>
 
 <img src="./contrib-heatmap.svg" width="860" alt="GitHub contribution graph — auto-refreshed daily" />
 
 <br>
 <br>
 
-<h3><code>aalindmukati@github ~ $ ./projects.sh</code></h3>
 
 | Project | What it is |
 |---|---|
@@ -35,7 +33,6 @@
 
 <br>
 
-<h3><code>aalindmukati@github ~ $ ./stack.sh</code></h3>
 
 ![C](https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -46,7 +43,6 @@
 
 <br>
 
-<h3><code>aalindmukati@github ~ $ ./links.sh</code></h3>
 
 <p><b>Engineering Student · ML &amp; Quant · AI Security</b></p>
 
