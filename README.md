@@ -27,7 +27,7 @@
 
 | Project | What it is |
 |---|---|
-| **JavaBites** |(https://github.com/aalindmukati/Java-Bites)|Unified SRM campus app: attendance, grades and food court in one place |
+| [**JavaBites**](https://github.com/aalindmukati/Java-Bites)|Unified SRM campus app: attendance, grades and food court in one place |
 | [**Ps-Games-Dataset-Analyzer**](https://github.com/aalindmukati/Ps-Games-Dataset-Analyzer) | Exploratory analysis of a PlayStation games dataset (Python) |
 | [**Weather-Data-Project**](https://github.com/aalindmukati/Weather-Data-Project) | Weather data analysis (Python) |
 
