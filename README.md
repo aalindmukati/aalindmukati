@@ -51,7 +51,3 @@
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote of the day" />
 
-<br>
-<img src="./contrib-heatmap.svg" width="860" alt="GitHub contribution graph (refreshed daily)" />
-
-</div>
